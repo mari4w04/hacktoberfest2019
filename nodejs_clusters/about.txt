@@ -1,0 +1,3 @@
+The code is based on this article
+https://coderrocketfuel.com/article/run-a-node-js-http-express-js-server-on-multiple-cpu-cores
+
